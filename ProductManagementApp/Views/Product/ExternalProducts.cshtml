@@ -1,0 +1,15 @@
+﻿@model ProductManagementApp.Services.ProductDetails[]
+
+<center><h2>Products</h2></center>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>
+            <h3>@product.Title</h3>
+            <p>@product.Description</p>
+            <p>Price: @product.Price</p>
+            <a href="@Url.Action("Details", "Product", new { id = product.Id })">View Details</a>
+        </li>
+    }
+</ul>
