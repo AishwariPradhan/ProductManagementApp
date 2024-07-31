@@ -13,4 +13,5 @@
 **THE RESPONSE WITH** ![image](https://github.com/user-attachments/assets/f548d012-ad30-47ec-9481-67fb0140311e)
  **DATABASE AUTHENTICATION IS WINDOWS AUTHENTICATION** ![image](https://github.com/user-attachments/assets/d4501ec6-f321-4e4f-8cb5-e59da0c84bb4)
 **DATABASE AND SCHEMA IS CREATED** ![image](https://github.com/user-attachments/assets/76a2ad32-d44a-454b-8c78-75c275a95e0d)
+**HERE IS STORED DATA WHEN USER CREATED NEW PRODUCT** ![image](https://github.com/user-attachments/assets/a4c2539c-914e-4402-8540-f1523961feb7)
 
