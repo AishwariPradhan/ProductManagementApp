@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2954cb07-a8fb-4119-8f8c-d83f1f36a174)# ProductManagementApp
+# ProductManagementApp
 
 **LIST OF PRODUCTS FROM API** ![image](https://github.com/user-attachments/assets/f4740b0b-be3c-4e31-bb4d-af88b8a84d78)
 **HERE IS AVAILABLE PRODUCT DETAIL PAGE** ![image](https://github.com/user-attachments/assets/4a8127d5-7a25-41fb-a63f-db2094172acc)
